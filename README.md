@@ -32,7 +32,7 @@
 
 
 
-[<img src="https://spotify-now-playing.reachvivek.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/24444dq8Vmm9FzdwDhGFPv?si=Yskd6_lISbSxxIWF8aRRYg)
+[<img src="https://spotify-now-playing.reachvivek.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/24444dq8Vmm9FzdwDhGFPv?si=Yskd6_lISbSxxIWF8aRRYg)
 
 
 <br>
