@@ -71,7 +71,3 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=reachvivek)
 <!-- ![visitors](https://badges.pufler.dev/visits/reachvivek/reachvivek)
 ![Visitor Count](https://profile-counter.glitch.me/reachvivek/count.svg) -->
-
-
-<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
-
