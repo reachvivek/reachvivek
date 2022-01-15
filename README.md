@@ -10,9 +10,9 @@
 
 <p>
   <em>
-    I am a 4th Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Chennai, IN</a>. <br>
-    22 years of living an intrepid life! <br>
-    Hyperactively innovating with hackathons currently at<a href="https://hackerearth.com/"> <b>HackerEarth</b></a><br>
+    I am an undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Chennai, IN</a>. <br>
+    23 years of living an intrepid life! <br>
+    Hyperactively innovating with hacks that makes life easier for masses.<br>
     <b>A friendly neighbourhood Developer</b> <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning Enthusiast.</b>&nbsp;<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Designer.gif" width="36px"><br>
     I Love <b>Full Stack Development</b>, xD. <br>
   </em>  
