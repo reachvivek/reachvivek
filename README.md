@@ -20,14 +20,6 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping**  😴  *or working* on my **Mac** 👨‍💻
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Full Stack Development** and currently learning **Cloud Development** 💪.
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Javascript V8, Machine Learning & Python 🐍  Projects**.
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Full Stack Development** and **CloudOps**🌐
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡  *lies in my* *lethargy* 😴
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do leave a **Star** ⭐️ if you liked my work 👨‍💻.
-<br>
-
 ## Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing.reachvivek.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/24444dq8Vmm9FzdwDhGFPv?si=Yskd6_lISbSxxIWF8aRRYg)
