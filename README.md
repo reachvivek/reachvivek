@@ -41,7 +41,7 @@
 
 # Connect with me<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/vivek-kumar-singh-b088a9157/">
+  <a href="https://www.linkedin.com/in/reachvivek/">
     <img align="left" alt="Vivek Kumar Singh | Linkedin" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/rogerthatvivek/">
