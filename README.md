@@ -26,7 +26,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.reachvivek.vercel.app/api/top-langs/?username=reachvivek&theme=radical)<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 
 <br>
