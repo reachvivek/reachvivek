@@ -10,13 +10,20 @@
 
 <p>
   <em>
-    I am an undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Chennai, IN</a>. <br>
-    24 years of living an intrepid life! <br>
-    Hyperactively innovating with hacks that makes life easier for masses.<br>
-    <b>A friendly neighbourhood Developer</b> <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning Enthusiast.</b>&nbsp;<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Designer.gif" width="36px"><br>
-    I Love <b>Full Stack Development</b>, xD. <br>
+    🚀 Full Stack Developer | DevOps Pro 💻
   </em>  
 </p>
+
+🔹 3 years of expertise in a spectrum of top-demand JavaScript frameworks
+🔹 Proficient in both Android Studio and Swift for high-performance mobile apps
+
+👨‍💻 I'm all about crafting dynamic web apps and interactive interfaces with a wide array of JavaScript frameworks, including Angular, React, Vue, and more. 🌐
+
+💡 Passionate about writing robust code, I stay updated on the latest tech trends. 💡
+
+💼 Specializing in providing turnkey solutions, I thrive at the intersection of creativity and technology.
+
+🌟 Let's team up on pioneering projects that push tech boundaries. Contact me to discuss how we can achieve extraordinary results together! 🌟
 
 
 <br>
