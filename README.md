@@ -10,7 +10,7 @@
 
 <p>
   <em>
-    🚀 Full Stack Developer | DevOps Pro 💻
+    🚀 Full Stack Developer | DevOps Engineer | AI/ML Enthusiast
   </em>  
 </p>
 
